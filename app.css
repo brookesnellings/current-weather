@@ -5,16 +5,18 @@ body {
 
 h1 {
   font-size: 55px;
+  margin-bottom: 0px;
 }
 
 #city {
   font-weight: bold;
   font-size: 35px;
   text-transform: uppercase;
+  margin-bottom: 10px;
 }
 
 .icon {
-  margin-top: -10px;
+  margin-top: 10px;
 }
 
 #temp,
